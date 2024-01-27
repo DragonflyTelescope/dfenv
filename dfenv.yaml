@@ -5,7 +5,7 @@ dependencies:
   - python=3.11
   - astropy=5.3.1
   - awswrangler=3.2.1
-  - boto3=1.28.13
+  - boto3
   - docopt=0.6.2
   - fitsio=1.1.10
   - ipython=8.18.1
