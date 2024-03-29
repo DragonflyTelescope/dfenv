@@ -28,4 +28,4 @@ dependencies:
   - sqlalchemy=2.0.19
   - tqdm=4.65.0
   - pip:
-    - vos==3.4
+    - vos==3.5
