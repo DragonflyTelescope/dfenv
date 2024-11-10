@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.11
+  - acstools=3.7.2
   - astropy=5.3.1
   - awswrangler=3.2.1
   - boto3
